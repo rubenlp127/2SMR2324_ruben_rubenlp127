@@ -14,7 +14,7 @@ header {
 
 nav {
   background: #a6a09e;
-  height: 80px;
+  height: 60px;
   width: 100%;
   padding: 0;
   margin: 0;
@@ -34,8 +34,8 @@ nav ul li {
 }
 nav ul li a {
   color: white;
-  font-size: 17px;
-  padding: 7px 13px;
+  font-size: 15px;
+  padding: 4px 8px;
   border-radius: 3px;
   text-transform: uppercase;
 }
